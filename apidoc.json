@@ -1,0 +1,8 @@
+{
+  "name": "storageBChain",
+  "version": "1.0.0",
+  "description": "backend: Node, Express, PostgreSQL",
+  "template": {
+    "forceLanguage": "pl"
+  }
+}
