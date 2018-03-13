@@ -1,8 +1,0 @@
-[INFO ] 2017-08-04 10:57:37.260 [main] SpringBootApplication - Starting SpringBootApplication v0.10.0 on L730488 with PID 23104 (D:\cakeshop-0.10.0-x86_64-windows.war started by 123987 in D:\)
-[INFO ] 2017-08-04 10:57:37.269 [main] SpringBootApplication - The following profiles are active: container,spring-boot,local
-[INFO ] 2017-08-04 10:57:45.219 [main] AppConfig - eth.config.dir=D:\data\local
-[INFO ] 2017-08-04 10:57:45.222 [main] AppConfig - Initializing new config from D:\cakeshop-0.10.0-x86_64-windows.war!\WEB-INF\classes!\config\application-local.properties
-[WARN ] 2017-08-04 10:57:45.227 [main] AppConfig - Authentication disabled.
-[INFO ] 2017-08-04 10:57:45.247 [main] AppConfig - Loading config from D:\data\local\application.properties
-[ERROR] 2017-08-04 10:57:49.848 [main] QuorumConfigBean - Running on unsupported OS! Only Linux and Mac OS X are currently supported for Quorum, on Windoze, please run with -Dgeth.node=geth
-[ERROR] 2017-08-04 10:57:49.877 [main] QuorumConfigBean - Running on unsupported OS! Only Linux and Mac OS X are currently supported for Quorum, on Windoze, please run with -Dgeth.node=geth

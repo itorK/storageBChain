@@ -1,5 +1,5 @@
 export default {
-    host: '10.151.64.164',
+    host: '192.168.0.1',
     user: 'admin',
     database: 'storagechain',
     password: 'admin',
