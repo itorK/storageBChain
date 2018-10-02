@@ -1,6 +1,6 @@
 # Blockchain Storage Example
 
-It's only example which help understanding how ESMSecureChain work
+It's only example which helps understanding how ESMSecureChain working
 
 Author:
 Karol Przybylski
